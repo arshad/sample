@@ -1,0 +1,7 @@
+sample.form:
+  path: '/sample'
+  defaults:
+    _form: '\Drupal\sample\Form\SampleForm'
+    _title: 'Sample form'
+  requirements:
+    _access: 'TRUE'
